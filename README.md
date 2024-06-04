@@ -1,7 +1,3 @@
-Here is a concise and easy-to-understand README.md file for your project:
-
-```markdown
-# Personal Bookshelf
 
 A simple React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
